@@ -1,8 +1,9 @@
 import csv
+from dateutil import parser
 
 data = {}
 
-with open('Expenses.csv', 'r') as csv_file:
+with open('expensetask.csv', 'r') as csv_file:
     spreadsheet = csv.DictReader(csv_file)
     for row in spreadsheet:
         if data.get(row['User']):
@@ -26,15 +27,18 @@ jan = 0
 feb = 0
 mar = 0
 for m in search:
+    date = parser.parse(m['Timestamp'], dayfirst=True)
+    print(date)
+    month = date.month
     cost = float(m['Amount'])
-    if m['Timestamp'][4] == '1':
+    if month == 1:
         jan += cost
-    elif m['Timestamp'][4] == '2':
+    elif month == 2:
         feb += cost
-    elif m['Timestamp'][4] == '3':
+    elif month == 3:
         mar += cost
     else:
-        print("Month", (m['Timestamp'][4]), "is not in Q1")
+        print("Month", month, "is not in Q1")
 
 jan = round(jan, 2)
 feb = round(feb, 2)
