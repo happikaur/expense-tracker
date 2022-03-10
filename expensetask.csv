@@ -1,0 +1,208 @@
+User,Category,Amount,Timestamp
+Suzi Clark,Currency Exchange,10,03/01/2021
+Suzi Clark,Currency Exchange,100,25/01/2021
+Suzi Clark,Currency Exchange,20,10/01/2021
+Suzi Clark,Currency Exchange,10,06/03/2021
+Tomas Leon,Currency Exchange,10,05/01/2021
+Tomas Leon,Currency Exchange,10,13/03/2021
+Tomas Leon,Currency Exchange,10,31/03/2021
+Tomas Leon,Currency Exchange,100,20/03/2021
+Amy Houseman,Currency Exchange,10,26/01/2021
+Amy Houseman,Currency Exchange,10,17/02/2021
+Amy Houseman,Currency Exchange,10,15/02/2021
+Amy Houseman,Currency Exchange,200,21/02/2021
+Mohana Medisetty,Currency Exchange,10,03/01/2021
+Mohana Medisetty,Currency Exchange,10,10/02/2021
+Mohana Medisetty,Currency Exchange,100,19/03/2021
+Mohana Medisetty,Currency Exchange,10,06/03/2021
+Suzi Clark,General Store,5.174781244,28/03/2021
+Suzi Clark,General Store,18.9153993,23/01/2021
+Tomas Leon,General Store,11.94325564,11/01/2021
+Tomas Leon,General Store,2.226500806,17/01/2021
+Tomas Leon,General Store,4.774739028,14/02/2021
+Tomas Leon,General Store,0.969841013,22/02/2021
+Amy Houseman,General Store,3.883007058,23/02/2021
+Amy Houseman,General Store,0.902745767,03/01/2021
+Amy Houseman,General Store,10.1564983,20/02/2021
+Amy Houseman,General Store,11.81766172,19/03/2021
+Mohana Medisetty,General Store,17.96465125,26/03/2021
+Mohana Medisetty,General Store,5.869066192,12/01/2021
+Mohana Medisetty,General Store,13.15028879,17/03/2021
+Mohana Medisetty,General Store,11.89340934,18/03/2021
+Mohana Medisetty,General Store,5.777514444,22/01/2021
+Mohana Medisetty,General Store,11.17083403,12/03/2021
+Mohana Medisetty,General Store,10.37753153,13/02/2021
+Rachel McKee,General Store,11.80346835,20/03/2021
+Rachel McKee,General Store,6.932197368,14/01/2021
+Rachel McKee,General Store,17.5457452,09/03/2021
+Rachel McKee,General Store,5.571983227,16/02/2021
+Rachel McKee,General Store,13.18855621,08/02/2021
+Rachel McKee,General Store,9.419854205,02/02/2021
+Rachel McKee,General Store,11.1203526,03/02/2021
+Rachel McKee,General Store,15.26882335,08/03/2021
+Rachel McKee,General Store,0.761447139,23/02/2021
+Rachel McKee,General Store,18.86329665,07/01/2021
+Rachel McKee,General Store,11.74731,05/03/2021
+Paola Chicaiza,General Store,2.406764447,23/01/2021
+Paola Chicaiza,General Store,19.12921536,19/03/2021
+Paola Chicaiza,General Store,6.386806005,06/01/2021
+Paola Chicaiza,General Store,11.88219872,03/02/2021
+Paola Chicaiza,General Store,2.958392637,19/03/2021
+Paola Chicaiza,General Store,12.19630819,27/01/2021
+Paola Chicaiza,General Store,8.24409198,18/03/2021
+Paola Chicaiza,General Store,4.813821281,06/01/2021
+Paola Chicaiza,General Store,3.734459948,08/03/2021
+Paola Chicaiza,General Store,10.23717865,19/01/2021
+Paola Chicaiza,General Store,11.61451837,21/02/2021
+Paola Chicaiza,General Store,14.97813785,26/03/2021
+Amy Houseman,Hotel,225.1201036,07/03/2021
+Amy Houseman,Hotel,62.2730007,24/03/2021
+Mohana Medisetty,Hotel,384.6839503,25/02/2021
+Mohana Medisetty,Hotel,334.9006789,09/03/2021
+Suzi Clark,Jewelry,1000,28/01/2021
+Mohana Medisetty,Jewelry,50,11/01/2021
+Suzi Clark,Loan,50,10/01/2021
+Suzi Clark,Loan,50,10/02/2021
+Suzi Clark,Loan,50,10/03/2021
+Suzi Clark,Loan,10,05/01/2021
+Suzi Clark,Loan,10,05/02/2021
+Suzi Clark,Loan,10,05/03/2021
+Paola Chicaiza,Loan,5,01/01/2021
+Paola Chicaiza,Loan,5,01/02/2021
+Paola Chicaiza,Loan,5,01/03/2021
+Tomas Leon,Mortgage,200,20/01/2021
+Tomas Leon,Mortgage,200,20/02/2021
+Tomas Leon,Mortgage,200,20/03/2021
+Suzi Clark,Restaurant,72.30828175,05/02/2021
+Suzi Clark,Restaurant,69.31683072,10/03/2021
+Suzi Clark,Restaurant,42.00424978,02/01/2021
+Suzi Clark,Restaurant,49.88926493,06/01/2021
+Amy Houseman,Restaurant,92.67717501,16/03/2021
+Amy Houseman,Restaurant,95.36593774,26/02/2021
+Amy Houseman,Restaurant,14.84774816,03/02/2021
+Rachel McKee,Restaurant,45.86894587,09/02/2021
+Rachel McKee,Restaurant,40.12864689,03/01/2021
+Rachel McKee,Restaurant,56.55834966,14/01/2021
+Rachel McKee,Restaurant,19.39303607,22/02/2021
+Rachel McKee,Restaurant,37.86202345,03/03/2021
+Rachel McKee,Restaurant,39.90884773,13/01/2021
+Rachel McKee,Restaurant,36.1489045,27/02/2021
+Rachel McKee,Restaurant,2.082778954,22/02/2021
+Rachel Gordon,Restaurant,58.7407749,31/01/2021
+Rachel Gordon,Restaurant,48.74487057,14/02/2021
+Rachel Gordon,Restaurant,84.58080561,30/01/2021
+Rachel Gordon,Restaurant,9.107940977,25/03/2021
+Rachel Gordon,Restaurant,68.10736017,17/03/2021
+Rachel Gordon,Restaurant,51.42960474,20/03/2021
+Rachel Gordon,Restaurant,62.21365138,16/02/2021
+Rachel Gordon,Restaurant,1.31417065,17/02/2021
+Rachel Gordon,Restaurant,94.86034751,30/03/2021
+Rachel Gordon,Restaurant,76.90777151,26/02/2021
+Rachel Gordon,Restaurant,66.97277714,05/02/2021
+Rachel Gordon,Restaurant,75.14777468,11/03/2021
+Rachel Gordon,Restaurant,18.12444861,15/02/2021
+Anna Goruskova,Restaurant,21.60922775,06/01/2021
+Anna Goruskova,Restaurant,68.85271866,21/03/2021
+Anna Goruskova,Restaurant,43.98552556,18/02/2021
+Anna Goruskova,Restaurant,91.67831529,14/01/2021
+Anna Goruskova,Restaurant,45.17797034,09/03/2021
+Anna Goruskova,Restaurant,38.42785419,31/03/2021
+Anna Goruskova,Restaurant,65.55893554,14/03/2021
+Masuma Begum,Restaurant,77.34861843,23/01/2021
+Masuma Begum,Restaurant,81.63331127,21/02/2021
+Masuma Begum,Restaurant,84.11335964,16/03/2021
+Masuma Begum,Restaurant,15.52134576,05/03/2021
+Masuma Begum,Restaurant,71.77623542,31/03/2021
+Masuma Begum,Restaurant,56.59617848,18/03/2021
+Masuma Begum,Restaurant,45.7261323,11/03/2021
+Sundus Ahmed,Restaurant,50.29910632,18/01/2021
+Tomas Leon,Retail,22.55260033,05/01/2021
+Tomas Leon,Retail,18.86597414,09/01/2021
+Tomas Leon,Retail,52.77740645,10/03/2021
+Tomas Leon,Retail,50.27620715,19/03/2021
+Tomas Leon,Retail,79.93960679,28/02/2021
+Suzi Clark,Retail,49.49828442,09/03/2021
+Suzi Clark,Retail,76.41281479,20/03/2021
+Suzi Clark,Retail,36.83005211,30/01/2021
+Suzi Clark,Retail,65.49530147,16/02/2021
+Suzi Clark,Retail,51.72489478,15/02/2021
+Amy Houseman,Retail,26.15322142,27/01/2021
+Amy Houseman,Retail,81.31258865,13/01/2021
+rose_g,Retail,75.5035775,27/01/2021
+rose_g,Retail,47.36459247,17/02/2021
+rose_g,Retail,83.95633697,08/01/2021
+rose_g,Retail,36.97138728,13/01/2021
+rose_g,Retail,62.07424984,17/01/2021
+rose_g,Retail,45.17133509,09/03/2021
+Sundus Ahmed,Retail,53.76476113,30/03/2021
+Sundus Ahmed,Retail,70.137352,10/03/2021
+Sundus Ahmed,Retail,35.41942855,26/01/2021
+Sundus Ahmed,Retail,98.48480333,19/03/2021
+Sundus Ahmed,Retail,74.28905787,11/02/2021
+Sundus Ahmed,Retail,96.25378077,14/02/2021
+Sundus Ahmed,Retail,35.02799986,05/01/2021
+Sundus Ahmed,Retail,52.4257332,06/03/2021
+Sundus Ahmed,Retail,31.9630184,19/02/2021
+Sundus Ahmed,Retail,59.2043152,13/02/2021
+Tomas Leon,Supermarket,9.655855336,14/01/2021
+Tomas Leon,Supermarket,16.61668918,21/02/2021
+Tomas Leon,Supermarket,3.537167982,09/03/2021
+Tomas Leon,Supermarket,6.685529851,07/02/2021
+Tomas Leon,Supermarket,13.98428142,10/03/2021
+Tomas Leon,Supermarket,13.28813686,21/01/2021
+Tomas Leon,Supermarket,13.87296315,12/02/2021
+Amy Houseman,Supermarket,6.601977969,29/03/2021
+Amy Houseman,Supermarket,15.61447096,15/03/2021
+Amy Houseman,Supermarket,13.39663524,10/01/2021
+Mohana Medisetty,Supermarket,12.94168448,21/03/2021
+Mohana Medisetty,Supermarket,8.108758784,01/02/2021
+Mohana Medisetty,Supermarket,16.65075203,07/01/2021
+Mohana Medisetty,Supermarket,4.759989645,05/01/2021
+Mohana Medisetty,Supermarket,7.158925202,14/02/2021
+Mohana Medisetty,Supermarket,14.66672584,26/01/2021
+Mohana Medisetty,Supermarket,7.103005597,02/01/2021
+Mohana Medisetty,Supermarket,16.14249529,13/01/2021
+Rachel McKee,Supermarket,2.068678783,27/03/2021
+Rachel McKee,Supermarket,16.85493009,14/03/2021
+Rachel McKee,Supermarket,18.43527222,23/02/2021
+Rachel McKee,Supermarket,7.902084762,23/02/2021
+rose_g,Supermarket,8.001785706,31/01/2021
+rose_g,Supermarket,11.29077691,11/02/2021
+rose_g,Supermarket,17.84843972,27/01/2021
+rose_g,Supermarket,0.636702562,11/03/2021
+rose_g,Supermarket,17.66937049,24/02/2021
+rose_g,Supermarket,13.32685103,02/01/2021
+Anna Goruskova,Supermarket,0.729739291,16/01/2021
+Anna Goruskova,Supermarket,2.574415288,27/02/2021
+Anna Goruskova,Supermarket,16.23665025,09/02/2021
+Anna Goruskova,Supermarket,0.771701402,21/02/2021
+Anna Goruskova,Supermarket,3.179839782,20/01/2021
+Sundus Ahmed,Supermarket,10.48896994,28/01/2021
+Sundus Ahmed,Supermarket,17.34130879,26/03/2021
+Tomas Leon,Taxi,7.938683119,20/03/2021
+Tomas Leon,Taxi,15.94523546,10/03/2021
+Tomas Leon,Taxi,11.2941063,01/03/2021
+Tomas Leon,Taxi,0.746073343,21/03/2021
+Tomas Leon,Taxi,1.622141135,31/01/2021
+Tomas Leon,Taxi,7.449591055,14/02/2021
+Amy Houseman,Taxi,15.20573209,21/01/2021
+Amy Houseman,Taxi,12.22912618,10/03/2021
+Amy Houseman,Taxi,15.22246877,29/03/2021
+Amy Houseman,Taxi,11.0051914,12/02/2021
+Amy Houseman,Taxi,10.22950466,30/01/2021
+rose_g,Taxi,1.885395047,13/03/2021
+rose_g,Taxi,0.926802735,29/03/2021
+rose_g,Taxi,12.29739617,26/01/2021
+rose_g,Taxi,15.7072372,09/02/2021
+rose_g,Taxi,5.71348595,19/01/2021
+rose_g,Taxi,1.754124122,14/02/2021
+Anna Goruskova,Taxi,2.108603042,24/01/2021
+Anna Goruskova,Taxi,7.846128771,04/03/2021
+Masuma Begum,Taxi,9.65575523,30/03/2021
+Harley Garrett,Taxi,4.784337514,06/02/2021
+Harley Garrett,Taxi,18.20083299,17/02/2021
+Harley Garrett,Taxi,8.66465409,29/01/2021
+Harley Garrett,Taxi,6.744217636,21/03/2021
+Harley Garrett,Taxi,7.009872042,17/02/2021
+Harley Garrett,Taxi,16.78834112,02/01/2021
+Harley Garrett,Taxi,13.34521233,15/02/2021

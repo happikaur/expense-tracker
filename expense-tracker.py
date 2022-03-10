@@ -1,8 +1,9 @@
 import csv
+from dateutil import parser
 
 data = {}
 
-with open('Expenses.csv', 'r') as csv_file:
+with open('expensetask.csv', 'r') as csv_file:
     spreadsheet = csv.DictReader(csv_file)
     for row in spreadsheet:
         if data.get(row['User']):
@@ -26,15 +27,17 @@ jan = 0
 feb = 0
 mar = 0
 for m in search:
+    date = parser.parse(m['Timestamp'], dayfirst=True)
+    month = date.month
     cost = float(m['Amount'])
-    if m['Timestamp'][4] == '1':
+    if month == 1:
         jan += cost
-    elif m['Timestamp'][4] == '2':
+    elif month == 2:
         feb += cost
-    elif m['Timestamp'][4] == '3':
+    elif month == 3:
         mar += cost
     else:
-        print("Month", (m['Timestamp'][4]), "is not in Q1")
+        print("Month", month, "is not in Q1")
 
 jan = round(jan, 2)
 feb = round(feb, 2)
@@ -45,30 +48,13 @@ totalSpend = round((jan + feb + mar), 2)
 print(user_name, "has expenses totaling", totalSpend, "from quarter 1.")
 
 #to calculate category spends for all categories to create a chart/graph with
-spendBreakDown = {"currencyExchange": 0, "generalStore": 0, "hotel": 0, "jewelry": 0, "loan": 0, "mortgage": 0, "restaurant": 0, "retail": 0, "supermarket": 0, "taxi": 0}
+spendBreakDown = {"Currency Exchange": 0, "General Store": 0, "Hotel": 0, "Jewelry": 0, "Loan": 0, "Mortgage": 0, "Restaurant": 0, "Retail": 0, "Supermarket": 0, "Taxi": 0}
 for x in search:
     price = float(x['Amount'])
-    if x['Category'] == 'Currency Exchange':
-        spendBreakDown["currencyExchange"] += price
-    elif x['Category'] == 'General Store':
-        spendBreakDown["generalStore"] += price
-    elif x['Category'] == 'Hotel':
-        spendBreakDown["hotel"] += price
-    elif x['Category'] == 'Jewelry':
-        spendBreakDown["jewelry"] += price
-    elif x['Category'] == 'Loan':
-        spendBreakDown["loan"] += price
-    elif x['Category'] == 'Mortgage':
-        spendBreakDown["mortgage"] += price
-    elif x['Category'] == 'Restaurant':
-        spendBreakDown["restaurant"] += price
-    elif x['Category'] == 'Retail':
-        spendBreakDown["retail"] += price
-    elif x['Category'] == 'Supermarket':
-        spendBreakDown["supermarket"] += price
-    elif x['Category'] == 'Taxi':
-        spendBreakDown["taxi"] += price
-    else:
+    try:
+        category = x['Category']
+        spendBreakDown[category] += price
+    except LookupError:
         print("Category Error")
 
 #rounding all items in the spend breakdown dictionary
